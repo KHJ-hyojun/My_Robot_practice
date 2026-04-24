@@ -5,14 +5,13 @@
 단순한 코드 백업을 넘어, 빌드 과정에서 발생한 에러(Troubleshooting)와 해결 과정을 중점적으로 정리합니다.
 
 ## 🛠️ Environment
-- **OS**: Ubuntu 22.04
-- **ROS2 Version**: Humble
+- **OS**: Ubuntu 24.04
+- **ROS2 Version**: Jazzy
 - **Language**: C++, Python
-- **Build Tool**: Colcon, CMake
+- **Build Tool**: Colcon, CMake, rclpy
 
 ## 📂 Repository Structure
 ```text
-📦 ROS2_Study_Log
- ┣ 📂 cpp_pkg1            # 기초 노드 생성 및 CMakeLists.txt 설정 실습
- ┣ 📂 custom_interfaces   # 커스텀 메시지(.msg, .srv) 정의 패키지
+📦 My_Rosbot_practice
+ ┣ 📂 Ros2_Practice # ros2를 공부하며 코드와 설명을 기록합니다.
  ┗ 📜 README.md
