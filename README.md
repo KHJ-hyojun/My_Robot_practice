@@ -11,6 +11,6 @@
 
 ## 📂 Repository Structure
 ```text
-📦 My_Rosbot_practice
+📦 My_Robot_practice
  ┣ 📂 Ros2_Practice # ros2를 공부하며 코드와 설명을 기록합니다.
  ┗ 📜 README.md
